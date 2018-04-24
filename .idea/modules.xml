@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/huoyan.iml" filepath="$PROJECT_DIR$/huoyan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huoyan-web/huoyan-web.iml" filepath="$PROJECT_DIR$/huoyan-web/huoyan-web.iml" />
     </modules>
   </component>
 </project>
